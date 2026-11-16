@@ -1,0 +1,6 @@
+{
+  "name": "FolioReserve",
+  "description": "University library book search, real-time shelf tracking, reservation holds, student accounts, librarian admin panel, and automated alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
